@@ -1,6 +1,6 @@
 # Syllabus-Generator
 
-# Udemy CourseMate: Syllabus Extractor & Smart Curriculum Generator
+# Syllabus Extractor & Smart Curriculum Generator
 
 This project is a **Streamlit** app that extracts course syllabi from Udemy and generates a smart, combined curriculum using the **Google Gemini API**. The extracted syllabi can also be downloaded as a PDF.
 
